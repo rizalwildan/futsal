@@ -8,7 +8,7 @@ The following application is tested under following environment:
 ## Developer Install
 Make sure you've installed Composer to install or update Yii2 vendor.
 
-Install Node.js. (See [Composer Website](https://getcomposer.org/download/))
+Install Composer. (See [Composer Website](https://getcomposer.org/download/))
 
 Clone :engine:
 
