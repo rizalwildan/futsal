@@ -23,3 +23,4 @@ composer global require "fxp/composer-asset-plugin:^1.2.0"
 composer install
 php init
 ```
+Congrats! You made it. Now you can access via browser `http://localhost/futsal/frontend/web` 
